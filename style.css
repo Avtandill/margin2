@@ -1,0 +1,17 @@
+.title-primary {
+    font-size: 20px;
+    color: #FF0000;
+}
+.list {
+    margin-left: 50px;
+}
+.novak {
+    margin-left: 60px;
+}
+.text {
+    color: #5B5B5B;
+}
+.name-style {
+    font-weight: bold;
+    text-decoration-line: underline;
+}
